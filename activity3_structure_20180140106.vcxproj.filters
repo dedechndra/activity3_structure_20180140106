@@ -23,5 +23,8 @@
     <ClInclude Include="Structure2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="sturcture3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
